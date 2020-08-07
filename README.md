@@ -15,7 +15,8 @@ there result of election.
 ![Screenshot (15)](https://user-images.githubusercontent.com/68866722/89675832-3cb9d980-d908-11ea-965e-5f43ec8f8932.png)
 ![Screenshot (16)](https://user-images.githubusercontent.com/68866722/89675834-3d527000-d908-11ea-89c9-2b207d7a3f19.png)
 ![Screenshot (17)](https://user-images.githubusercontent.com/68866722/89675835-3deb0680-d908-11ea-9877-389c056bc718.png)
-![Screenshot (18)](https://user-images.githubusercontent.com/68866722/89675837-3e839d00-d908-11ea-8ed5-7ba7e450caa1.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/68866722/89675964-6bd04b00-d908-11ea-9bd3-ab5c7e4e33e7.png)
+![Screenshot (60)](https://user-images.githubusercontent.com/68866722/89675967-6c68e180-d908-11ea-88f9-2a120297a221.png)
 ![Screenshot (19)](https://user-images.githubusercontent.com/68866722/89675844-404d6080-d908-11ea-8f86-ed8e224afedf.png)
 ![Screenshot (20)](https://user-images.githubusercontent.com/68866722/89675848-417e8d80-d908-11ea-9efb-d941e35fa0d9.png)
 ![Screenshot (21)](https://user-images.githubusercontent.com/68866722/89675856-43e0e780-d908-11ea-9173-b69a6770902e.png)
@@ -56,5 +57,4 @@ there result of election.
 ![Screenshot (56)](https://user-images.githubusercontent.com/68866722/89675961-696df100-d908-11ea-9640-77a6bbee21f9.png)
 ![Screenshot (57)](https://user-images.githubusercontent.com/68866722/89675962-6a068780-d908-11ea-9283-5d287f9042cb.png)
 ![Screenshot (58)](https://user-images.githubusercontent.com/68866722/89675963-6b37b480-d908-11ea-983a-ca9ea8a5b970.png)
-![Screenshot (59)](https://user-images.githubusercontent.com/68866722/89675964-6bd04b00-d908-11ea-9bd3-ab5c7e4e33e7.png)
-![Screenshot (60)](https://user-images.githubusercontent.com/68866722/89675967-6c68e180-d908-11ea-88f9-2a120297a221.png)
+
