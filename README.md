@@ -1,7 +1,7 @@
 # Vote4Change
 
 
-The main aim of this application is to solve the problem of manualVoting system by
+The main aim of this application is to solve the problem of manual Voting system by
 doing all the works such as Registering an voter or registering the candidate online.
 Also this application unable us to take the online voting of candidate and showcasing
 there result of election.
