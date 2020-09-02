@@ -60,19 +60,40 @@ there result of election.
 
 
 ![Screenshot (40)](https://user-images.githubusercontent.com/68866722/89675911-565b2100-d908-11ea-9c8c-27805d3272ee.png)
+
+
 ![Screenshot (41)](https://user-images.githubusercontent.com/68866722/89675913-56f3b780-d908-11ea-991b-f70857427bea.png)
+
+
 ![Screenshot (42)](https://user-images.githubusercontent.com/68866722/89675918-59561180-d908-11ea-95ad-4387595a60be.png)
-![Screenshot (46)](https://user-images.githubusercontent.com/68866722/89675937-5eb35c00-d908-11ea-9e62-71c64d0caf3c.png)
-![Screenshot (47)](https://user-images.githubusercontent.com/68866722/89675941-5fe48900-d908-11ea-9fdb-a6eaf37ea8f5.png)
-![Screenshot (48)](https://user-images.githubusercontent.com/68866722/89675946-61ae4c80-d908-11ea-805d-625c97b47ef7.png)
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/68866722/89675951-63781000-d908-11ea-8e25-910d9660faae.png)
+
+
 ![Screenshot (51)](https://user-images.githubusercontent.com/68866722/89675952-6410a680-d908-11ea-83d8-f5047a57fdf2.png)
 
 
-![Screenshot (54)](https://user-images.githubusercontent.com/68866722/89675958-670b9700-d908-11ea-8def-d74d723f8583.png)
 ![Screenshot (55)](https://user-images.githubusercontent.com/68866722/89675959-67a42d80-d908-11ea-8f72-ebdefbfe0db7.png)
+
+
 ![Screenshot (56)](https://user-images.githubusercontent.com/68866722/89675961-696df100-d908-11ea-9640-77a6bbee21f9.png)
+
+
 ![Screenshot (57)](https://user-images.githubusercontent.com/68866722/89675962-6a068780-d908-11ea-9283-5d287f9042cb.png)
+
+
 ![Screenshot (58)](https://user-images.githubusercontent.com/68866722/89675963-6b37b480-d908-11ea-983a-ca9ea8a5b970.png)
+
+
+![Screenshot (54)](https://user-images.githubusercontent.com/68866722/89675958-670b9700-d908-11ea-8def-d74d723f8583.png)
+
+
+![Screenshot (46)](https://user-images.githubusercontent.com/68866722/89675937-5eb35c00-d908-11ea-9e62-71c64d0caf3c.png)
+
+
+![Screenshot (47)](https://user-images.githubusercontent.com/68866722/89675941-5fe48900-d908-11ea-9fdb-a6eaf37ea8f5.png)
+
+
+![Screenshot (48)](https://user-images.githubusercontent.com/68866722/89675946-61ae4c80-d908-11ea-805d-625c97b47ef7.png)
+
 
