@@ -12,7 +12,7 @@ there result of election.
 
 
 
-
+![Screenshot (18)](https://user-images.githubusercontent.com/68866722/91999103-a687a080-ed59-11ea-9c94-83c63a1e1e6c.png)
 
 
 ![Screenshot (59)](https://user-images.githubusercontent.com/68866722/89675964-6bd04b00-d908-11ea-9bd3-ab5c7e4e33e7.png)
@@ -66,6 +66,7 @@ there result of election.
 
 
 ![Screenshot (42)](https://user-images.githubusercontent.com/68866722/89675918-59561180-d908-11ea-95ad-4387595a60be.png)
+
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/68866722/89675951-63781000-d908-11ea-8e25-910d9660faae.png)
 
