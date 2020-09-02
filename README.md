@@ -62,17 +62,14 @@ there result of election.
 ![Screenshot (40)](https://user-images.githubusercontent.com/68866722/89675911-565b2100-d908-11ea-9c8c-27805d3272ee.png)
 ![Screenshot (41)](https://user-images.githubusercontent.com/68866722/89675913-56f3b780-d908-11ea-991b-f70857427bea.png)
 ![Screenshot (42)](https://user-images.githubusercontent.com/68866722/89675918-59561180-d908-11ea-95ad-4387595a60be.png)
-![Screenshot (43)](https://user-images.githubusercontent.com/68866722/89675921-5a873e80-d908-11ea-8709-02b3bc5b22eb.png)
-![Screenshot (44)](https://user-images.githubusercontent.com/68866722/89675923-5b1fd500-d908-11ea-853c-b9cd42ca1e1f.png)
-![Screenshot (45)](https://user-images.githubusercontent.com/68866722/89675930-5c510200-d908-11ea-9e40-a0865ee41f5f.png)
 ![Screenshot (46)](https://user-images.githubusercontent.com/68866722/89675937-5eb35c00-d908-11ea-9e62-71c64d0caf3c.png)
 ![Screenshot (47)](https://user-images.githubusercontent.com/68866722/89675941-5fe48900-d908-11ea-9fdb-a6eaf37ea8f5.png)
 ![Screenshot (48)](https://user-images.githubusercontent.com/68866722/89675946-61ae4c80-d908-11ea-805d-625c97b47ef7.png)
-![Screenshot (49)](https://user-images.githubusercontent.com/68866722/89675950-6246e300-d908-11ea-9d06-578fac11ff38.png)
+
 ![Screenshot (50)](https://user-images.githubusercontent.com/68866722/89675951-63781000-d908-11ea-8e25-910d9660faae.png)
 ![Screenshot (51)](https://user-images.githubusercontent.com/68866722/89675952-6410a680-d908-11ea-83d8-f5047a57fdf2.png)
-![Screenshot (52)](https://user-images.githubusercontent.com/68866722/89675953-64a93d00-d908-11ea-84fe-5f88779a6eb5.png)
-![Screenshot (53)](https://user-images.githubusercontent.com/68866722/89675955-66730080-d908-11ea-9903-e5dabe8c34fb.png)
+
+
 ![Screenshot (54)](https://user-images.githubusercontent.com/68866722/89675958-670b9700-d908-11ea-8def-d74d723f8583.png)
 ![Screenshot (55)](https://user-images.githubusercontent.com/68866722/89675959-67a42d80-d908-11ea-8f72-ebdefbfe0db7.png)
 ![Screenshot (56)](https://user-images.githubusercontent.com/68866722/89675961-696df100-d908-11ea-9640-77a6bbee21f9.png)
