@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/web/login.html</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/src/java/evoting/controller/AddVoteControllerServlet.java</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/web/stylesheet/backgroundimage.css</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/src/java/evoting/dao/UserDao.java</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/web/jsscript/registration.js</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/web/registration.html</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/src/java/evoting/dao/RegistrationDao.java</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/src/java/evoting/controller/AdminControllerServlet.java</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/web/adminshowcandidate.jsp</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/src/java/evoting/dao/CandidateDao.java</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/web/jsscript/adminoption.js</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/src/java/evoting/dbutil/DBConnection.java</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/src/java/evoting/dto/AddCandidateDto.java</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/web/adminactions.jsp</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/web/managecandidate.jsp</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/web/stylesheet/admin.css</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/src/java/evoting/dao/VoteDao.java</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/web/adminoptions.jsp</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/web/stylesheet/pageheader.css</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/src/java/evoting/controller/AddCandidateControllerServlet.java</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/src/java/evoting/dto/CandidateDetails.java</file>
+            <file>file:/C:/Users/Genius/Documents/NetBeansProjects/E-Voting/src/java/evoting/controller/LoginControllerServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
