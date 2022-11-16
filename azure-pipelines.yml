@@ -18,7 +18,7 @@ variables:
   environmentName: 'javatest5673'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+ 
 
 stages:
 - stage: Build
@@ -26,8 +26,7 @@ stages:
   jobs:
   - job: MavenPackageAndPublishArtifacts
     displayName: Maven Package and Publish Artifacts
-    pool:
-      vmImage: $(vmImageName)
+    pool: selfhosted
 
     steps:
     - task: Maven@3
@@ -53,8 +52,7 @@ stages:
   - deployment: DeployLinuxWebApp
     displayName: Deploy Linux Web App
     environment: $(environmentName)
-    pool:
-      vmImage: $(vmImageName)
+    pool: selfhosted
     strategy:
       runOnce:
         deploy:
