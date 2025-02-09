@@ -6,9 +6,16 @@ on:
       - master
 
 jobs:
-  display-message:
+  display-message-ubuntu:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Print Welcome Message
+    - name: Print Welcome Message on Ubuntu
+      run: echo "welcome ajay mewada on github action"
+
+  display-message-windows:
+    runs-on: windows-latest
+
+    steps:
+    - name: Print Welcome Message on Windows
       run: echo "welcome ajay mewada on github action"
